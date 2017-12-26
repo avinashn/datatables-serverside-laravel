@@ -14,8 +14,11 @@
 </ul>
 
 ## Working Demo
-You can see the demo of the project <a href="http://justlaravel.com/demos/implement-datatables-server-side-laravel/">here</a>
+You can see the demo of the project <a href="http://demos.justlaravel.com/implement-datatables-server-side-laravel/">here</a>
 
 ## Reference Post
 <a href="http://justlaravel.com/implement-datatables-server-side-laravel">http://justlaravel.com/implement-datatables-server-side-laravel
 </a>
+
+## App Demo
+https://www.youtube.com/watch?v=IdSkMgxZuBA
